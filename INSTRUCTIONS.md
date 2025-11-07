@@ -1,0 +1,1 @@
+Instruções rápidas para iniciantes: veja o README.md. Se precisar, peça ajuda para enviar ao GitHub via Web ou Terminal.
