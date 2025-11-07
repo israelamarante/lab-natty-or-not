@@ -113,7 +113,7 @@ O resultado inclui:
 
 ---
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão 
 
 Criar um projeto totalmente feito por IA foi um exercício de **equilíbrio entre criatividade e tecnologia**.  
 Mesmo sendo um conteúdo 100% IA, o resultado soa **humano e inspirador**.  
